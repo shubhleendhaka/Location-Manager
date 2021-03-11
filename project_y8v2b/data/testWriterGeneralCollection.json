@@ -1,0 +1,17 @@
+{
+    "name": "My test collection",
+    "locations": [
+        {
+            "visiting status": true,
+            "name": "Bali",
+            "rating": 1,
+            "type": "Beach"
+        },
+        {
+            "visiting status": true,
+            "name": "Vancouver",
+            "rating": 5,
+            "type": "City"
+        }
+    ]
+}
