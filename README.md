@@ -1,4 +1,5 @@
-# UBC-Personal-Project
+# Location Manager
+
 I have created a Vacation-Location Manager console-based and GUI application that will help the user in keeping track of all the locations that they would like to visit!
 
 Through this application the user can add and remove locations from their wishlist/collection. Easily navigate through 
