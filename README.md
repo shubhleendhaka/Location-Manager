@@ -35,13 +35,3 @@ i.e. the location's name , type, rating and visiting status.
 - As a user, I want to be able to save my collection to file.
 
 - As a user, I want to be able to load my collection from file.
-
-- Phase 4: Task 2. Tested and designed a class(LocationCollection class) with method (rateLocation(Location l, int r)) 
-in the model package that is robust(throws InvalidRatingException).  
-
-- Phase 4: Task 3. If I had more time to work on this project,I would have: 
-  1. changed the layout of the main GUI frame to make it more visually appealing
-  
-  2. added more frames that would have worked like pop-up windows to display more features
-  
-  3. increase the functionality of existing buttons so that more work is done when a button is clicked
