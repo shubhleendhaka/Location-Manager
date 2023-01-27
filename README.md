@@ -1,4 +1,4 @@
-# Location Manager
+### Location Manager
 
 I have created a Vacation-Location Manager console-based and GUI application that will help the user in keeping track of all the locations that they would like to visit!
 
@@ -18,7 +18,7 @@ safe of travel again.I realize that this will probably take way longer than what
  that we are learning in this course and also deciding the location that I want to visit next summer.
 
 
-## User Stories
+### Implemented User Stories
 
 - As a user, I want to be able to view a list of the names of locations in my collection.
 
